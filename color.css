@@ -1,0 +1,158 @@
+ * {
+    font-family: 'Secular One', sans-serif;
+ }
+ header {
+    display: flex;
+    justify-content: space-between;
+ }
+ header .latar {
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    width: 300px;
+    height: 30px;
+    border: 0;
+    border-radius: 10px;
+ }
+ .pertama {
+    display: flex;
+}
+ h4 {
+    text-align: right;
+    padding-top: 135px;
+    margin-right: 5px;
+    
+ }
+ .pertama .satu {
+   background-color: #55efc4;
+   width: 500px;
+   height: 190px;
+   color: white;
+}
+ .pertama .dua {
+    background-color: #81ecec;
+    width: 500px;
+    height: 190px;
+    color: white;
+ }
+ .pertama .tiga {
+    background-color: #74b9ff;
+    width: 500px;
+    height: 190px;
+    color: white;
+ }
+ .pertama .empat {
+    background-color: #a29bfe;
+    width: 500px;
+    height: 190px;
+    color: white;
+ }
+ .pertama .lima {
+    background-color: #dfe6e9;
+    width: 500px;
+    height: 190px;
+    color: white;
+ }
+ .kedua {
+    display: flex;
+ }
+ .kedua .enam {
+    background-color: #00b894;
+    width: 500px;
+    height: 190px;
+    color: white;
+ }
+  .kedua .tujuh {
+     background-color: #00cec9;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+  .kedua .delapan {
+     background-color: #0984e3;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+  .kedua .sembilan {
+     background-color: #6c5ce7;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+  .kedua .sepuluh {
+     background-color: #b2bec3;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+  .ketiga {
+    display: flex;
+ }
+ .ketiga .sebelas {
+    background-color: #ffeaa7;
+    width: 500px;
+    height: 190px;
+    color: white;
+ }
+  .ketiga .duabelas {
+     background-color: #fab1a0;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+  .ketiga .tigabelas {
+     background-color: #ff7675;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+  .ketiga .empatbelas {
+     background-color: #fd79a8;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+  .ketiga .limabelas {
+     background-color: #636e72;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+  .keempat {
+    display: flex;
+ }
+ .keempat .enambelas {
+    background-color: #fdcb6e;
+    width: 500px;
+    height: 190px;
+    color: white;
+ }
+  .keempat .tujuhbelas {
+     background-color: #e17055;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+  .keempat .delapanbelas {
+     background-color: #d63031;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+  .keempat .sembilanbelas {
+     background-color: #e84393;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+  .keempat .duapuluh {
+     background-color: #2d3436;
+     width: 500px;
+     height: 190px;
+     color: white;
+  }
+   footer h2{
+    text-align: right;
+   }
